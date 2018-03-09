@@ -1,2 +1,2 @@
 # Python_HW
-PyPoll and PyParagrahp
+PyPoll and PyParagraph python scripts
